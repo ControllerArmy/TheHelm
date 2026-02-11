@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.gamelauncher</Name>
+  <DisplayName>The Helm</DisplayName>
+  <Description>The Helm launcher</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-02-10</ReleaseDate>
+  <Default>true</Default>
+  <Essential>true</Essential>
+  <UpdateFile CompressedSize="2078914" OS="Any" UncompressedSize="2578872"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>2fd11cbf9e0ecc170288207903cead413520225d</SHA1>
+ </PackageUpdate>
+ <SHA1>898ca3bb45b767dffe62ce3a7cd8f0e136dc541c</SHA1>
+ <MetadataName>2026-02-10-1924_meta.7z</MetadataName>
+</Updates>
