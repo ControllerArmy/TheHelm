@@ -6,14 +6,14 @@
   <Name>com.gamelauncher</Name>
   <DisplayName>The Helm</DisplayName>
   <Description>The Helm launcher</Description>
-  <Version>1.0.06</Version>
+  <Version>1.0.065</Version>
   <ReleaseDate>2026-02-10</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile CompressedSize="18700116" OS="Any" UncompressedSize="60869303"/>
+  <UpdateFile CompressedSize="18699502" OS="Any" UncompressedSize="60869303"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
-  <SHA1>1f783169557b7768904850ac9ca40819d4a04314</SHA1>
+  <SHA1>98fad38588ce1382bea5dc26b453f4b427003f47</SHA1>
  </PackageUpdate>
- <SHA1>3ac3ddcfcaabd2deff7207cfd9fcc6a06c997b1b</SHA1>
- <MetadataName>2026-02-10-2036_meta.7z</MetadataName>
+ <SHA1>485303b9933d5549e4862db535394fd6d943e20a</SHA1>
+ <MetadataName>2026-02-10-2040_meta.7z</MetadataName>
 </Updates>
